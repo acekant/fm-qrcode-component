@@ -39,7 +39,7 @@ To run this project locally:
 
 ## Live Demo
 
-Check out the live version: [Live Demo](https://your-live-site-url.com)
+Check out the live version: [Live Demo](https://acekant.github.io/fm-qrcode-component/)
 
 ## Challenges Faced
 
